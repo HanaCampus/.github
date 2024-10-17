@@ -64,7 +64,7 @@
 | Backend          | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"> <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=MyBatis&logoColor=white"> |
 | Database         | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> |
 | Deploy           | <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> |
-| API              | <img src="https://img.shields.io/badge/Summernote-412991?style=flat&logo=Summernote&logoColor=white"/> |
+| API              | <img src="https://img.shields.io/badge/Summernote-412991?style=flat&logo=Summernote&logoColor=white"/> <img src="https://img.shields.io/badge/KakaoDevelopers-FAE300?style=flat&logo=KakaoDevelopers&logoColor=white"/> |
 | Cooperative Tool | <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"> |
 | IDE              | <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white"> |
 <br/>
