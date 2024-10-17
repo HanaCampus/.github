@@ -24,26 +24,38 @@
 
 ## 2. 기능 설명
 ### ➊ 회원가입 및 로그인
-|  |
-|---|
-| ✔️ 카카오 계정으로 로그인이 가능합니다.<br/>✔️ 회원가입 시 닉네임과 성별을 입력합니다. |
+| 회원가입 | 로그인 |
+|:---:|:---:|
+| <img width="480" height="320"> | <img src="https://github.com/user-attachments/assets/7c2435fd-fa32-4dc8-a534-a9de5cc9cd0d" width="480" height="320"> |
+| ✔️ 회원가입 시 닉네임과 성별을 입력합니다. | ✔️ 카카오 계정으로 로그인이 가능합니다. |
 <br/>
 
 ### ➋ 게시글 조회
-|  |
-|---|
-| ✔️ 원하는 카테고리 게시판에 접근하여 게시글을 조회할 수 있습니다.<br/>✔️ 게시글과 댓글에 ‘좋아요’ 등록과 게시글 스크랩이 가능합니다.<br/>✔️ 게시글 조회 메뉴에서 게시글 또는 댓글에 대한 신고를 할 수 있습니다. |
+| <img src="https://github.com/user-attachments/assets/0b06ce1d-5765-4bc5-8856-4b4b2475bfd0" width="480" height="320"> <img src="https://github.com/user-attachments/assets/fa14e3d3-dd88-48ff-ab04-5874ab8401c0" width="480" height="320"> <img src="https://github.com/user-attachments/assets/3d5590dd-6a31-45ab-8e16-993fe40256c4" width="480" height="320"> <img width="480" height="320"> |
+| --- |
+| ✔️ 원하는 카테고리 게시판에 접근하여 게시글을 조회할 수 있습니다. |
+| ✔️ 게시글과 댓글에 ‘좋아요’ 등록과 게시글 스크랩이 가능합니다. |
+| ✔️ 게시글 조회 메뉴에서 게시글 또는 댓글에 대한 신고를 할 수 있습니다. |
 <br/>
 
 ### ➌ 게시글 작성
-|  |
+| <img src="https://github.com/user-attachments/assets/fa90f3cd-7a1b-41b8-bde3-832eec2e4cfc" width="480" height="320"> |
 |---|
 | ✔️ 게시글 작성 버튼을 클릭하여 게시글을 작성할 수 있습니다.<br/>✔️ 위지윅(WYSIWYG) 방식의 WebEditor인 Summernote 라이브러리를 적용했습니다.<br/>✔️ 링크와 사진을 쉽게 첨부할 수 있습니다. |
 <br/>
 
 ### ➍ 마이페이지
+| <img src="https://github.com/user-attachments/assets/3c4f45db-3d41-468a-ab90-d1f6efe4c7ce" width="480" height="320"> |
+|---|
+| ✔️ 게시글 작성 버튼을 클릭하여 게시글을 작성할 수 있습니다.<br/>✔️ 위지윅(WYSIWYG) 방식의 WebEditor인 Summernote 라이브러리를 적용했습니다.<br/>✔️ 링크와 사진을 쉽게 첨부할 수 있습니다. |
+<br/>
 
 ### ➎ 관리자 페이지
+| <img src="https://github.com/user-attachments/assets/5d01e6f9-860a-42eb-bff3-4062b91fa013" width="480" height="320"> <img src="https://github.com/user-attachments/assets/9a01efe0-9dc8-408e-a311-bc66be2ca8e1" width="480" height="320"> <img src="https://github.com/user-attachments/assets/07775e89-6089-490b-868f-21e9b093c27a" width="480" height="320"> <img width="480" height="320"> |
+| --- |
+| ✔️ 게시글과 댓글에 대한 신고 내역과 완료된 신고 내역을 확인할 수 있습니다. |
+| ✔️ 7일, 30일, 365일, 영구 단위로 유저 정지가 가능합니다. |
+<br/>
 
 ## 3. 기술 스택
 | 기술              | 사용 |
