@@ -70,6 +70,6 @@
 <br/>
 
 ## 4. ERD
-<img src="https://github.com/user-attachments/assets/5e20feff-7d24-415a-8f6b-75f622d82b29" width="75%"/>
+<img src="https://github.com/user-attachments/assets/cc64a937-8d8a-4bc8-93a2-186a94d4ead0" width="75%"/>
 <br/><br/>
 
